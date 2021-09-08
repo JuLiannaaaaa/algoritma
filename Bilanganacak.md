@@ -1,7 +1,7 @@
 ## Mengurutkan 3 Bilangan Acak
 ```
-A = Bilangan Terkecil
-B = Bilangan Tengah
+A = Bilangan Tengah
+B = Bilangan Terkecil
 C = Bilangan Terbesar
 
 1. Pilihlah Bilangan Terkecil Dari 3 Bilangan Tersebut
@@ -17,12 +17,12 @@ int a;
 int b;
 int c;
 
-a = 6;
-b = 8;
+a = 8;
+b = 6;
 c = 10;
 
-a = a;
-b = b;
+a = b;
+b = a;
 c = c;
 }
 ```
