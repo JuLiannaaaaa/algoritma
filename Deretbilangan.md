@@ -1,17 +1,25 @@
 ```c
 main(){
 int a=1;
-int b=1;
-int c=2;
-int d=3;
-int e=5;
-int f=8;
-int g=13;
-cout<<"0+a="<<b;
-cout<<"a+b="<<c;
-cout<<"b+c="<<d;
-cout<<"c+d="<<e;
-cout<<"d+e="<<f;
-cout<<"e+f="<<g;
+int b;
+int c;
+int d;
+int e;
+int f;
+int g;
+a=a;
+b=0+a;
+c=a+b;
+d=b+c;
+e=c+d;
+f=d+e;
+g=e+f;
+cout<<"Nilai a="<<a<<endl;
+cout<<"Nilai b="<<b<<endl;
+cout<<"Nilai c="<<c<<endl;
+cout<<"Nilai d="<<d<<endl;
+cout<<"Nilai e="<<e<<endl;
+cout<<"Nilai f="<<f<<endl;
+cout<<"Nilai g="<<g<<endl;
 }
 ```
