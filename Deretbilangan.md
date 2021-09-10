@@ -1,13 +1,13 @@
 ```c
 main(){
-int a=1;
+int a;
 int b;
 int c;
 int d;
 int e;
 int f;
 int g;
-a=a;
+a=1;
 b=0+a;
 c=a+b;
 d=b+c;
